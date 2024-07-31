@@ -5,3 +5,11 @@ This is project is a microservices bank, where you can create an account, deposi
 ## Stack
 
 ## Architecture
+### Microservices
+- Auth
+- Accounts
+- Customers
+- Notification
+- Payment
+- Transactions
+- Metrics
