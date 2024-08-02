@@ -3,11 +3,11 @@
 This is project is a microservices bank, where you can create an account, deposit money, withdraw money, transfer money and check your balance. This project is a simple example of how microservices work. The project is divided into microservices.
 
 ## Stack
+- Java and C#.
 
 ## Architecture
 ### Microservices
 - Auth
-- Database
 - Notification
 - Payment
 - Accounts
@@ -19,9 +19,6 @@ This is project is a microservices bank, where you can create an account, deposi
 1. Authorization
 2. Authentication
 3. JWT
-#### Database
-1. Postgres
-2. Redis
 #### Notification
 1. RabbitMQ
 2. email
