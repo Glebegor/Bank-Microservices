@@ -32,7 +32,6 @@ This is project is a microservices bank pet project, where you can create an acc
 - OAuth2
 - Keycloak
 
-
 ## Architecture
 
 ![micro-arch.jpeg](./assets_readme/micro-arch.jpeg)
