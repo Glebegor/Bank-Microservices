@@ -1,0 +1,2 @@
+run-app:
+	dotnet run --project authService.WebApi/authService.WebApi.csproj
