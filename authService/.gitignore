@@ -1,0 +1,8 @@
+.idea
+cache
+.env
+node_modules
+build
+dist
+obj
+bin
