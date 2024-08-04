@@ -65,6 +65,9 @@ This service is responsible for managing transactions. This service is responsib
 #### 7.Metrics
 This service is responsible for monitoring the system. This service is responsible for monitoring the system and generating metrics.
 
+### Github repository
+![branches_diagram.png](./assets_readme/branches_diagram.png)
+
 ## Contributors
 - [Hlib Arseniuk](https://github.com/Glebegor)
 - [Vladyslav Arseniuk](https://github.com/Arsen290)
