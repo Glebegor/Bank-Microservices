@@ -32,7 +32,6 @@ This is project is a microservices bank pet project, where you can create an acc
 - OAuth2
 - Keycloak
 
-
 ## Architecture
 
 ![micro-arch.jpeg](./assets_readme/micro-arch.jpeg)
@@ -65,6 +64,9 @@ This service is responsible for managing transactions. This service is responsib
 
 #### 7.Metrics
 This service is responsible for monitoring the system. This service is responsible for monitoring the system and generating metrics.
+
+### Github repository
+![branches_diagram.png](./assets_readme/branches_diagram.png)
 
 ## Contributors
 - [Hlib Arseniuk](https://github.com/Glebegor)
