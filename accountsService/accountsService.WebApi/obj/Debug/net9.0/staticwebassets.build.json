@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n5hNkLmdcoBlRvSaAaaiQcCHZly8kZYCRjz0fiZfpCo=",
+  "Source": "accountsService.WebApi",
+  "BasePath": "_content/accountsService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
