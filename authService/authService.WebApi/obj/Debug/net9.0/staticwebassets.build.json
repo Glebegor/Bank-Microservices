@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8kYV5eEqJjF26uknhe6DgAuczTMEiPpF2YgWJc3hstY=",
+  "Source": "authService.WebApi",
+  "BasePath": "_content/authService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
